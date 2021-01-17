@@ -1,0 +1,18 @@
+.Welcome {
+  height: 100vh;
+  background-image: url("https://www.itl.cat/pngfile/big/0-7755_nature-pier-bridge-d-river-water-sunset-night.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.Welcome__Title {
+  text-align: center;
+  text-justify: inter-word;
+  justify-content: center;
+  letter-spacing: 2px;
+  font-size: 48px;
+}
